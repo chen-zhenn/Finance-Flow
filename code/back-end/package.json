@@ -1,0 +1,9 @@
+{
+  "name": "finance-flow",
+  "version": "1.0.0",
+  "description": "Aplicação para gestão de despesas pessoais",
+  "main": "index.js",
+  "repository": "git@github.com:chen-zhenn/Finance-Flow.git",
+  "author": "Carlos Garcia",
+  "license": "MIT"
+}
