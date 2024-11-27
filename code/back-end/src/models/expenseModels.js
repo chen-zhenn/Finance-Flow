@@ -18,6 +18,6 @@ const expenseSchema = mongoose.Schema({
         ref: 'Category',
         required: [true , 'Deve fornecer categoria de despesa']
     },
-})
+}, { timestamps: true })
 
 module.exports = mongoose.model('Expense', expenseSchema)
