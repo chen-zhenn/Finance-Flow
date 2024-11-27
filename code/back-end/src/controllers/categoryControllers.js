@@ -1,8 +1,9 @@
 const Category = require('../models/categoryModels')
 
 async function getCategory(req, res) {
+    const queryParams = req.query
     try {
-        const category = await Category.find()
+        const category = await Category.find(queryParams)
         res
         .status(200)
         .json({
