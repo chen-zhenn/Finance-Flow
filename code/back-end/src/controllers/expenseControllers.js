@@ -3,11 +3,7 @@ function getExpense(req, res) {
 }
 
 function getExpenseById(req, res) {
-    console.log(`Lista despesas por ${req.params.id}`) 
-}
-
-function getExpenseById(req, res) {
-    console.log(`Lista despesas por ${req.params.id}`) 
+    console.log(`Lista despesas para ${req.params.id}`) 
 }
 
 function createExpense(req, res) {
