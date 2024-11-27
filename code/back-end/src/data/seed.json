@@ -1,0 +1,186 @@
+{
+  "category": [
+    { 
+      "name": "Alimentação", 
+      "type": "despesa"
+    },
+    { 
+      "name": "Moradia", 
+      "type": "despesa" 
+    },
+    { 
+      "name": "Serviços", 
+      "type": "despesa" 
+    },
+    { 
+      "name": "Transporte", 
+      "type": "despesa" 
+    },
+    { 
+      "name": "Lazer", 
+      "type": "despesa" 
+    },
+    { 
+      "name": "Vestuário", 
+      "type": "despesa" 
+    },
+    { 
+      "name": "Entretenimento", 
+      "type": "despesa" 
+    },
+    { 
+      "name": "Seguros", 
+      "type": "despesa" 
+    },
+    { 
+      "name": "Saúde e Fitness", 
+      "type": "despesa" 
+    },
+    { 
+      "name": "Restaurantes", 
+      "type": "despesa" 
+    },
+    { 
+      "name": "Viagens", 
+      "type": "despesa" 
+    },
+    { 
+      "name": "Escritório", 
+      "type": "despesa" 
+    },
+    { 
+      "name": "Educação", 
+      "type": "despesa" 
+    },
+    { 
+      "name": "Transporte Público", 
+      "type": "despesa" 
+    },
+    { 
+      "name": "Cafés e Bares", 
+      "type": "despesa" 
+    },
+    { 
+      "name": "Consultoria", 
+      "type": "receita" 
+    },
+    { 
+      "name": "Cuidados Pessoais", 
+      "type": "despesa" 
+    },
+    { 
+      "name": "Móveis", 
+      "type": "despesa" 
+    },
+    { 
+      "name": "Combustível", 
+      "type": "despesa" 
+    },
+    { 
+      "name": "Supermercado", 
+      "type": "despesa" 
+    }
+  ],
+  "expense": [
+    { 
+      "amount": 500.50,
+      "description": "Pagamentos de serviços como internet e telefone", 
+      "date": "2024-08-05T11:00:00.000Z"
+    },
+    { 
+      "amount": 300.00,
+      "description": "Alimentação no mercado", 
+      "date": "2024-08-06T13:00:00.000Z"
+    },
+    { 
+      "amount": 1200.00,
+      "description": "Pagamento de aluguel do apartamento", 
+      "date": "2024-08-07T09:00:00.000Z"
+    },
+    { 
+      "amount": 80.00,
+      "description": "Gastos com gasolina", 
+      "date": "2024-08-08T15:30:00.000Z"
+    },
+    { 
+      "amount": 250.00,
+      "description": "Jantar em restaurante", 
+      "date": "2024-08-09T20:00:00.000Z"
+    },
+    { 
+      "amount": 100.00,
+      "description": "Compras de roupas", 
+      "date": "2024-08-10T11:00:00.000Z"
+    },
+    { 
+      "amount": 150.00,
+      "description": "Entrada em evento de música", 
+      "date": "2024-08-11T18:00:00.000Z"
+    },
+    { 
+      "amount": 50.00,
+      "description": "Pagamento de seguro de saúde", 
+      "date": "2024-08-12T10:00:00.000Z"
+    },
+    { 
+      "amount": 200.00,
+      "description": "Mensalidade de academia", 
+      "date": "2024-08-13T14:00:00.000Z"
+    },
+    { 
+      "amount": 120.00,
+      "description": "Passagens aéreas para viagem de férias", 
+      "date": "2024-08-14T16:00:00.000Z"
+    },
+    { 
+      "amount": 30.00,
+      "description": "Material de escritório", 
+      "date": "2024-08-15T12:00:00.000Z"
+    },
+    { 
+      "amount": 200.00,
+      "description": "Cursos e materiais educativos", 
+      "date": "2024-08-16T09:00:00.000Z"
+    },
+    { 
+      "amount": 50.00,
+      "description": "Passe de transporte público", 
+      "date": "2024-08-17T08:00:00.000Z"
+    },
+    { 
+      "amount": 40.00,
+      "description": "Café com amigos", 
+      "date": "2024-08-18T19:00:00.000Z"
+    },
+    { 
+      "amount": 800.00,
+      "description": "Consultoria empresarial", 
+      "date": "2024-08-19T09:00:00.000Z"
+    },
+    { 
+      "amount": 75.00,
+      "description": "Cuidados pessoais (cabeleireiro)", 
+      "date": "2024-08-20T11:00:00.000Z"
+    },
+    { 
+      "amount": 400.00,
+      "description": "Compra de móveis para casa", 
+      "date": "2024-08-21T13:00:00.000Z"
+    },
+    { 
+      "amount": 100.00,
+      "description": "Combustível para carro", 
+      "date": "2024-08-22T17:00:00.000Z"
+    },
+    { 
+      "amount": 150.00,
+      "description": "Supermercado - compras básicas", 
+      "date": "2024-08-23T10:00:00.000Z"
+    },
+    { 
+      "amount": 100.00,
+      "description": "Combustível para carro", 
+      "date": "2024-08-22T17:00:00.000Z"
+    }
+  ]
+}

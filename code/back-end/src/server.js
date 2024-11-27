@@ -5,8 +5,12 @@ const app  = require('./app')
 
 //-Database
 const DB_CONN = process.env.DB_LOCAL_CONN
+const mongooseOptions = {
+    useNewUrlParser: true,
+    useUnifiedTopology: true,
+}
 mongoose
-.connect(DB_CONN)
+.connect(DB_CONN, mongooseOptions)
 .then(conn => console.log('Conexão com banco realizado com sucesso!'))
 .catch(err => console.log('Erro ao conectar com Banco de Dados'))
 
