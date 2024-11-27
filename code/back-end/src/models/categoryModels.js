@@ -10,6 +10,6 @@ const categorySchema = mongoose.Schema({
         enum: ['despesa', 'receita'],
         required: [true , 'Deve fornecer tipo de categoria']
     },
-})
+}, { timestamps: true })
 
 module.exports = mongoose.model('Category', categorySchema)
